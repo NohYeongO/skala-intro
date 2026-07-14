@@ -1,1 +1,1 @@
-# skala-into Project
+# skala-intro project
